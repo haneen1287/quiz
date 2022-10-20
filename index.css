@@ -1,0 +1,16 @@
+body{
+    background-color: whitesmoke;
+}
+
+.container{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    height: 100%;
+}
+
+ul{
+    list-style: none;
+    position: relative;
+    right: 40%;
+}
